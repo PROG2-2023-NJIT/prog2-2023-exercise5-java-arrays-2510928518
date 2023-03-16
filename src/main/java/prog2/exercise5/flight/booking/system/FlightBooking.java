@@ -470,8 +470,7 @@ public class FlightBooking
    
    
    
-   
-   ConfirmationMessage ConfirmationMessage;
+    ConfirmationMessage ConfirmationMessage;
    enum ConfirmationMessage {
        CHANGE, NOTCHANGE;
    }
